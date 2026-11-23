@@ -44,4 +44,3 @@ Keep `.env.local` on your computer; it is ignored by Git. Do not use a Supabase 
 Use Supabase's Table Editor or a reviewed SQL change to add or update listings. Check the official source, audience, deadline and application status before changing `status` to `published`. Keep `verified_at` current. A listing with `pending` or `expired` status is hidden from visitors.
 
 Submissions, moderator tools, authentication, saved listings, and automatic deadline expiry are future milestones.
-
